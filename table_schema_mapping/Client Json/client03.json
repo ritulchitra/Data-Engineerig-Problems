@@ -1,0 +1,17 @@
+{
+  "table01": {
+    "name": "FullName",
+    "age": "MyAge",
+    "phone_number": "PhoneNumber"
+  },
+  "table02": {
+    "order_id": "OrderId",
+    "order_date": "OrderDate",
+    "cost": "Cost"
+  },
+  "table03": {
+    "namefather":"FatherName",
+    "namemother":"MotherName",
+    "namebrother":"BrotherName"
+  }
+}
