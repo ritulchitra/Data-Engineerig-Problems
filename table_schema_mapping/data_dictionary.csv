@@ -1,0 +1,10 @@
+destination_file,destination_column
+ft01,name
+ft01,age
+ft01,phone_number
+ft02,order_id
+ft02,order_date
+ft02,cost
+ft03,namefather
+ft03,namemother
+ft03,namebrother
